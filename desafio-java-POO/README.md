@@ -67,5 +67,5 @@ Paradigmas Principais e seus Subparadigmas:
 
 ### Paradigma Declarativo
 
-- Paradigma Funcional
-- Paradigma Lógico
+- Paradigma Funcional.
+- Paradigma Lógico.
